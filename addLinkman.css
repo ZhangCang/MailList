@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+body {
+	height: 980px;
+	background: url(../image/menu.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+fieldset {
+	width: 550px;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	margin: 0 auto;
+}
+
+fieldset legend {
+	text-align: center;
+}
+
+table {
+	width: 550px;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+table td {
+	border-left: 1px solid #000;
+	border-top: 1px solid #000;
+	padding: 2px;
+	height: 20px;
+}
+
+input {
+	height: 20px;
+	margin: 0px;
+
+}
+select {
+	
+	width:175px;
+	
+}
+
+.button {
+	margin-top: 10px;
+	width: 550px;
+	height: 30px;
+	font-size: 15px;
+	text-align: center;
+	background: #c0c0c0;
+	color: black;
+}
+
+#btn:hover {
+	background-color: #808080;
+}

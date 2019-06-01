@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body {
+	height: 980px;
+	background: url(../image/menu.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin-top: 20px;
+	margin-left: 50px;
+}

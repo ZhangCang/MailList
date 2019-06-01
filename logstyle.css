@@ -1,0 +1,63 @@
+.login{
+	margin-left:570px ;
+	margin-right:200px ;
+	margin-top:10px ;
+	margin-bottom:0px ;
+	
+}
+.time{
+	margin-left:570px ;
+	margin-right:200px ;
+	margin-top:80px ;
+	margin-bottom:0px ;
+	color: white;
+	font-size:25px;
+
+}
+.title{
+	margin-left:600px ;
+	margin-right:200px ;
+	margin-top:35px ;
+	margin-bottom:0px ;
+	color: white;
+	font-size:50px;
+
+}
+
+.verufy{
+	margin-left:65px ;
+}
+body{
+
+	height: 980px;
+	background: url(../image/logbackgroud.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+fieldset{
+	width: 400px;
+	height: 250px;
+}
+input {
+	margin: 10px;
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	height: 25px;
+	color: #000000;
+	font-size: 1em;
+}
+
+input:focus {
+	border-color: #9ecaed;
+	box-shadow: 0 0 20px #9ECAED;
+}
+
+#btn {
+	background-color: #009dff;
+	color: #fff;
+	width: 100px;
+}
+
+#btn:hover {
+	background-color: darkblue;
+}

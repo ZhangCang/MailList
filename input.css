@@ -1,0 +1,42 @@
+ul {
+	width: 360px;
+	margin: auto;
+}
+
+ul li {
+	width: 100%;
+	list-style-type: none;
+	line-height: 60px;
+}
+
+input {
+	width: 100%;
+	line-height: 45px;
+	font-size: 1.2em;
+	border-radius: 5px;
+	border: 1px solid #8A2BE2;
+}
+
+input:focus {
+	box-shadow: 0 0 15px aqua;
+}
+
+.button {
+	background: gray;
+	color: black;
+}
+
+
+#btn:hover {
+	background-color: #80ffff;
+}
+div{
+	margin-top:80px ;
+}
+body{
+
+	height: 980px;
+	background: url(../image/menu.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
